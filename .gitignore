@@ -1,54 +1,37 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# C extensions
-*.so
+# Folder config file
+Desktop.ini
 
-# Distribution / packaging
-.Python
-env/
-bin/
-build/
-develop-eggs/
-dist/
-eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
 
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.coverage
-.cache
-nosetests.xml
-coverage.xml
+# =========================
+# Operating System Files
+# =========================
 
-# Translations
-*.mo
+# OSX
+# =========================
 
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# Rope
-.ropeproject
+# Icon must ends with two \r.
+Icon
 
-# Django stuff:
-*.log
-*.pot
 
-# Sphinx documentation
-docs/_build/
+# Thumbnails
+._*
 
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
